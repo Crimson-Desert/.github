@@ -1,2 +1,1 @@
-# .github
-Everwind is an open-world adventure and survival game where players explore floating islands, build airships, gather resources, and uncover ancient secrets. The game combines exploration, crafting, and story-driven gameplay in a dynamic fantasy world.
+Crimson Desert is an open-world action adventure game set in a vast medieval fantasy world. Players explore diverse regions, engage in intense combat, complete quests, and experience a story-driven journey filled with battles, exploration, and dynamic environments.
